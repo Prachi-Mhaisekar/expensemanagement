@@ -9,16 +9,7 @@ Simple expense tracker with login, expense CRUD, and a category pie chart.
 | `backend/` | API, database, login (JWT) — not exposed directly |
 | `frontend/` | HTML, CSS, JavaScript — served to the browser |
 
-## Run
 
-```bash
-npm install
-npm start
-```
-
-Open **http://localhost:3000**
-
-> Do not open HTML files directly in the browser. Always use the URL above so the API works.
 
 ## Use the app
 
@@ -35,13 +26,5 @@ Open **http://localhost:3000**
 | `npm start` | Start the app |
 | `npm run dev` | Start with auto-restart on code changes |
 
-## Clear all data
 
-Delete the database file and restart:
 
-```bash
-rm -f backend/expenses.db
-npm start
-```
-
-Then log out in the browser (or clear site data for localhost).
