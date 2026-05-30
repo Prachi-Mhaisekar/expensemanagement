@@ -19,12 +19,7 @@ Simple expense tracker with login, expense CRUD, and a category pie chart.
 4. **Edit / Delete** — buttons on each row
 5. **Pie Chart** — category breakdown (no internet needed)
 
-## Commands
 
-| Command | Description |
-|---------|-------------|
-| `npm start` | Start the app |
-| `npm run dev` | Start with auto-restart on code changes |
 
 
 
